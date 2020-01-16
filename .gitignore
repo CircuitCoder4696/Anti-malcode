@@ -10,7 +10,6 @@ tests.dll
 tests.a
 tests.lib
 tests-test-*
-*.d
 *.o
 *.obj
 *.lst
