@@ -1,0 +1,17 @@
+(Archive)
+.dub
+docs.json
+__dummy.html
+docs/
+/tests
+tests.so
+tests.dylib
+tests.dll
+tests.a
+tests.lib
+tests-test-*
+*.d
+*.o
+*.obj
+*.lst
+*.py
