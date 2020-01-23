@@ -2,8 +2,9 @@
 This is a project to attempt to scan for risky code, and print it to terminal, with the exception of code already listed in another file (likely going to be named something like ".riskignore").  The plan is that it would be a library, with a small executable that would allow devs to execute the code in the library.  For example, it will need to list all the lines of code that uses "File", "write", or even "readText", and refuse to execute "dub" unless those lines are either removed or copied to the file listing all the lines of code that have the ability to cause harm to an end-user's computer.  
 ## Info:
 Origionally didn't know if I wanted to make it open-source or not, but decided to just make it open-source, because there is a lot that I don't know, and other devs would also like to have a tool like this.  
-### The current forcus in this project:
+### Objectives:
 * Programming it to provide a JSON-object from parsing a command.  
+There are additional objectives that will come after, geared towards reading a file, to find specific snippits of code.  
 ## Guide-lines:
 ### Contributing:
 * Your code must be commented to provide information about how you want your part of the code to work.  
