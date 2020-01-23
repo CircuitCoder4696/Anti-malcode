@@ -4,6 +4,7 @@ This is a project to attempt to scan for risky code, and print it to terminal, w
 Origionally didn't know if I wanted to make it open-source or not, but decided to just make it open-source, because there is a lot that I don't know, and other devs would also like to have a tool like this.  
 ### Objectives:
 * Programming it to provide a JSON-object from parsing a command.  
+
 There are additional objectives that will come after, geared towards reading a file, to find specific snippits of code.  
 ## Guide-lines:
 ### Contributing:
