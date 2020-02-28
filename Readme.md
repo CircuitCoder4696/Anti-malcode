@@ -13,4 +13,4 @@ There are additional objectives that will come after, geared towards reading a f
 * Your code can't add exceptions to certain lines of code, or by using comments, allowing devs to get their code to bypass being scanned isn't going to be added.  All lines of code in a directory are supposed to be scanned.  
 * You can't be rude, and have volger language in your comments or your code.  
 * Just to make sure that this project, and every copy of this project will point to this repository via "--repo", there will be an object-file contining the code that will handle parsing commands, and "--repo" along with "--version" will behandled in the compiled code itself in the future.  
-* My program is allowed to with-hold certain pieces of information, so that this app can reject your project, and in such a case, is probably be because your attempting something napherious, or there is some bug preventing it from giving your the scan-results.  
+* That this app can reject your project, and in such a case, is probably be because your attempting something napherious, or there is some bug preventing it from giving your the scan-results.  
