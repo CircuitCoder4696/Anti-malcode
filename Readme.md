@@ -6,6 +6,12 @@ Origionally didn't know if I wanted to make it open-source or not, but I'll make
 * Programming it to provide a JSON-object from parsing a command.  
 
 There are additional objectives that will come after, geared towards reading a file, to find specific snippits of code.  
+## Warning:
+* Files may not be read if their file-type is filtered out.  Make sure that your having it read the correct file types.  
+### File-types being read:
+* indev0.0.0: `.d`
+* indev0.0.4: `.c`, `.d`, `.h`
+* indev0.0.5: `.c`, `.c++`, `.cpp`, `.d`, `.h`, `.hpp`
 ## Guide-lines:
 ### Contributing:
 * Your code must be commented to provide information about how you want your part of the code to work.  
