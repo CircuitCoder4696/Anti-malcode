@@ -11,7 +11,7 @@ There are additional objectives that will come after, geared towards reading a f
 ### File-types being read:
 * indev0.0.0: `.d`
 * indev0.0.1: `.c`, `.d`
-* indev0.0.1: `.c`, `.d`, `.h`
+* indev0.0.3: `.c`, `.d`, `.h`
 * indev0.0.5: `.c`, `.cpp`, `.d`, `.h`, `.hpp`
 <Br/>
 _There are technical difficulties getting it to read `.cxx`-files, do to a rage violation._  
