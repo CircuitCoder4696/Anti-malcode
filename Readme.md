@@ -9,8 +9,12 @@ There are additional objectives that will come after, geared towards reading a f
 ## Warning:
 * Files may not be read if their file-type is filtered out.  Make sure that your having it read the correct file types.  
 ### File-types being read:
-* indev0.0.0: `.d`<Br/>
-_There are technical difficulties getting it to read `.c`-files._  
+* indev0.0.0: `.d`
+* indev0.0.1: `.c`, `.d`
+* indev0.0.1: `.c`, `.d`, `.h`
+* indev0.0.5: `.c`, `.cpp`, `.d`, `.h`, `.hpp`
+<Br/>
+_There are technical difficulties getting it to read `.cxx`-files, do to a rage violation._  
 ## Guide-lines:
 ### Contributing:
 * Your code must be commented to provide information about how you want your part of the code to work.  
