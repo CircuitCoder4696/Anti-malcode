@@ -9,7 +9,7 @@ There are additional objectives that will come after, geared towards reading a f
 ## Warning:
 * Files may not be read if their file-type is filtered out.  Make sure that your having it read the correct file types.  
 ### File-types being read:
-* indev0.0.0: `.d`
+* indev0.0.0: `.d`<Br/>
 _There are technical difficulties getting it to read `.c`-files._  
 ## Guide-lines:
 ### Contributing:
