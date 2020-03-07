@@ -4,6 +4,7 @@ This project is an attempt to scan the application to learn what the compiled pr
 Origionally didn't know if I wanted to make it open-source or not, but I'll make it partially open-source if I find the chance, and I'm willing.  
 ### Objectives:
 * Programming it to provide a JSON-object from parsing a command.  
+* Programming it to ignore comments.  
 
 There are additional objectives that will come after, geared towards reading a file, to find specific snippits of code.  
 ## Warning:
@@ -15,6 +16,7 @@ There are additional objectives that will come after, geared towards reading a f
 * indev0.0.5: `.c`, `.cpp`, `.d`, `.h`, `.hpp`
 <Br/>
 _There are technical difficulties getting it to read `.cxx`-files, do to a rage violation._  
+
 ## Guide-lines:
 ### Contributing:
 * Your code must be commented to provide information about how you want your part of the code to work.  
